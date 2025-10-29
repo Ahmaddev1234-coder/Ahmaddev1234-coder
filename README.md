@@ -77,9 +77,3 @@ If you’d like to chat — email me at **ahmadhassan282033@gmail.com** or open 
 
 ---
 
-# Stats & Activity
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Ahmaddev1234-coder&theme=react)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmaddev1234-coder&layout=compact)
-
-
----
